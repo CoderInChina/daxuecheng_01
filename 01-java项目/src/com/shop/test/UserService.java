@@ -8,5 +8,5 @@ public interface UserService {
 	
 	void cc();
 	
-	void dd();
+	
 }
