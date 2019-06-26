@@ -8,4 +8,6 @@ public interface UserService {
    
    
    void updateUser();
+   
+   void ccc();
 }
