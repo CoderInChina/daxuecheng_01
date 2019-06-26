@@ -5,4 +5,7 @@ public interface UserService {
    
    
    void deleteUser();
+   
+   
+   void updateUser();
 }
